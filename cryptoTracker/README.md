@@ -1,16 +1,83 @@
-# React + Vite
+# CryptoTracker 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time cryptocurrency tracking web application built using React. This project displays live crypto prices, charts, and market data using a public cryptocurrency API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About the Project
 
-## React Compiler
+CryptoTracker is a frontend-focused React project created to practice working with APIs, state management, and dynamic UI updates. The application fetches live cryptocurrency data and presents it in a clean and user-friendly interface. It helps users quickly check prices and trends of popular cryptocurrencies.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is part of the **react-project-hub** repository.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 📈 Live cryptocurrency price tracking
+* 🔍 Search cryptocurrencies by name or symbol
+* 📊 Interactive price charts
+* 🌐 Real-time data using API
+* 📱 Responsive design for desktop and mobile
+
+---
+
+## 🛠 Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Public Crypto API (e.g., CoinGecko)
+
+---
+
+## 📂 Project Structure
+
+```
+cryptoTracker/
+│
+├── src/
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Learning Objectives
+
+* API fetching and data handling
+* React hooks (useState, useEffect, useContext)
+* Component-based architecture
+* Chart integration
+* Responsive UI design
+
+---
+
+## 📌 Future Improvements
+
+* Add more cryptocurrencies
+* Add price alerts
+* Improve UI/UX
+* Dark mode support
+
+---
+
+## ⭐ Acknowledgements
+
+* Crypto data provided by public cryptocurrency APIs
+* Built as part of personal React learning journey
+
+---
+
+⭐ If you like this project, consider starring the repository!
