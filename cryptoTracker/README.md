@@ -28,7 +28,7 @@ This project is part of the **react-project-hub** repository.
 * JavaScript (ES6+)
 * HTML5
 * CSS3
-* Public Crypto API (e.g., CoinGecko)
+* Public Crypto API (CoinGecko – Free tier)
 
 ---
 
@@ -44,6 +44,18 @@ cryptoTracker/
 ```
 
 ---
+
+## 🌐 Live Demo
+
+👉 **Live Website:** [https://simplecryptotracker.netlify.app/](https://simplecryptotracker.netlify.app/)
+
+---
+
+## 🔑 API Note
+
+* This project uses the **free CoinGecko API**.
+* CoinGecko provides limited access on the free tier.
+* For higher rate limits and stability, **use your own CoinGecko API key**.
 
 ## 🚀 How to Run Locally
 
